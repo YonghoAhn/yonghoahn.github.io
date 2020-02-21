@@ -14,6 +14,11 @@ layout: default
   </header> <!-- End Header -->
   <footer>
     <section class="contact">
+      <ul>
+        {% for category in site.categories %}
+          <li><a href="{{category.url}}"> {{category.title}}</a></li>
+        {% endfor %}
+      </ul>
       <h3 class="contact-title">Contact me</h3>
       <ul>
         {% if site.social-email %}
