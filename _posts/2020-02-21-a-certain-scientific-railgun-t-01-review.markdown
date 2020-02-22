@@ -1,27 +1,67 @@
 ---
 layout: post
-title: "A Certain Scientific Railgun T #01 Review"
+title: "어떤 과학의 초전자포 T 01화 리뷰"
 date: 2017-04-06 13:32:20 +0300
 description: A Certain Scientific Railgun T(S03) 01 Review
 category: [toaru]
 img:  # Add image post (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# 도입
+어과초 T 1화는 지난 8년간의 나의 기대에 거의 부합했다. 안정된 작화(쇼쿠호 제외)와 S보다 발전된 액션신, 이펙트, 연출(특히 카메라워크에서) 등은 지난 어마금 3기와 도드라지게 대비되면서 상대적으로 더욱 퀄리티를 높아 보이게 한다. 성우들은 어마금 1기(2008) 이래로 12년의 세월이 흘렀음에도 최대한 비슷한 느낌을 유지하기 위해 애쓰는 것이 눈에 띄고 있다. 효과음은 지난 시리즈와 비슷하지만 새로 만든 듯 하다. 전반적인 퀄리티는 앞으로의 대패성제 편을 기대하게 만든다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# 디테일
+> *본 게시물은 개인적인 감상을 적은 글입니다.*
 
-Jekyll also offers powerful support for code snippets:
+![Misaka Running](../assets/img/toaru/01/01.jpg)
+시작부터 미사카가 달려가는 장면이 등장한다. 꼬마 아이들이 노는 장면에서 어과초 S 작화 느낌이 살아있는 것을 볼 수 있다.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![Fixing Teddy Bear](../assets/img/toaru/01/02.jpg)
+문제의 곰인형
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+![d](../assets/img/toaru/01/03.jpg)
+색감이 어과초 S 시절과 유사하다. 개인적으로는 이런 색감을 선호하는 편인데, 작화도 샤프하게 그려진 편이다. 장면은 러시아 데몬스트레이션 회상(SS소설) 중인 듯.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![d](../assets/img/toaru/01/04.jpg)
+쿠로코 성우는 등장 직후부터 지금까지 캐릭터성을 완벽하게 살리는 것 같다. 미코토 앞에서의 광년이 연기와 다른 사람들을 대할 때 아가씨 말투의 갭이 놀랍다.
+
+![ㅇ](../assets/img/toaru/01/05.jpg)
+쿠로코 병문안 다녀오는 도중의 모습.
+
+![ㅇ](../assets/img/toaru/01/06.jpg)
+예쁘다.
+
+![ㅇ](../assets/img/toaru/01/07.jpg)
+식봉이의 정신공격을 맞는 모습이다. 전자 배리어를 구축하고 있기 때문에 통하지는 않지만 아프다고 한다. 신약 22R에서 배리어를 푼 채로는 정신지배가 효과가 있는 것으로 보인다.
+
+![ㅇ](../assets/img/toaru/01/08.jpg)
+예쁘다.
+
+![ㅇ](../assets/img/toaru/01/09.jpg)
+쿠로코를 위해 선물을 사러 온 미사카. 
+
+![ㅇ](../assets/img/toaru/01/10.jpg)
+네트워크로 데이터를 공유하는 시스터즈끼리 가위바위보를 하는 모습. rand()쯤 되려나
+
+![ㅇ](../assets/img/toaru/01/11.jpg)
+치열한 가위바위보의 결과를 설명하는 여동생. 유전자를 공유해서 둘 다 너무 귀엽다.
+
+![ㅇ](../assets/img/toaru/01/12.jpg)
+**천사.**
+
+![ㅇ](../assets/img/toaru/01/13.jpg)
+의상 검열당한 근성충의 모습. 근성 타령하면서 착한놈같이 굴지만 시설물 다 때려부수는거 보면 어지간히 미친놈이 아니다.
+
+![ㅇ](../assets/img/toaru/01/14.jpg)
+갑자기 등장한 더블 코일 레일건. 대패성제 편에서 레일건 쏠일이 안나와서 그런지 동전을 두개씩 썼다.
+
+![ㅇ](../assets/img/toaru/01/15.jpg)
+레일건 쿼터제같은게 있는 듯 싶다?
+
+![ㅇ](../assets/img/toaru/01/16.jpg)
+레벨5식 소개
+
+![ㅇ](../assets/img/toaru/01/17.jpg)
+쿠로코의 비밀노트. 몰카충 에반데;
+
+# 총평
+8년동안 기다려온 팬들 입장에서는 감동적인 첫 화였음에는 틀림없다. 작화, 연출 모두 평타 이상은 갔으며 특히 당췌 무슨,,, 싶었던 어마금 3기에 비교하는게 실례일 정도였으나, 매의 눈으로 살피면 여전히 약간씩 불안불안한 부분을 찾아볼 수 있다. 스토리는 재미가 보장된 대패성제 편이기에 애니화만 제대로 된다면 충분히 수작이라는 평을 내릴 수 있을 것 같다.
