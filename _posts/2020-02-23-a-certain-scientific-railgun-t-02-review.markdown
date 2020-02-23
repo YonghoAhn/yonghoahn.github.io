@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "어떤 과학의 초전자포 T 01화 리뷰"
+title: "어떤 과학의 초전자포 T 02화 리뷰"
 date: 2017-04-06 13:32:20 +0300
 description: A Certain Scientific Railgun T(S03) 01 Review
 category: [toaru]
-img:  # Add image post (optional)
+img: header02.jpg # Add image post (optional)
 ---
 # 도입
 2화는 어떤 과학의 초전자포 만화판 대패성제 원작 스토리를 충실하게 따라갔다. 특히 사진에 넣진 않았지만 쇼치틀과 사텐이 서로 알아보는 장면(SS소설)같은 부분도 원작을 따라가면서 초전 1,2기와는 다른 모습을 보였다. 다만 작화는 1화에 비해 부족한 부분이 생겼는데, 1화가 초전 S급 작화에 드문드문 초전 1기 작화가 보였다면, 이번 화는 초전 1기 작화를 기반으로 가끔 S급 작화가 눈에 들어왔다. 작화가 안정되었다고 하기엔 앞으로 방영분을 좀 더 지켜볼 필요가 있을 듯 싶다.
