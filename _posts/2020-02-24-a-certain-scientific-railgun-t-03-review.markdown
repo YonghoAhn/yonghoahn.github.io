@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "어떤 과학의 초전자포 T 02화 리뷰"
+title: "어떤 과학의 초전자포 T 03화 리뷰"
 date: 2020-02-24 02:32:20 +0900
 description: A Certain Scientific Railgun T(S03) 03 Review
 category: [toaru]
