@@ -9,50 +9,11 @@ img: header02.jpg # Add image post (optional)
 # 도입
 2화는 어떤 과학의 초전자포 만화판 대패성제 원작 스토리를 충실하게 따라갔다. 특히 사진에 넣진 않았지만 쇼치틀과 사텐이 서로 알아보는 장면(SS소설)같은 부분도 원작을 따라가면서 초전 1,2기와는 다른 모습을 보였다. 다만 작화는 1화에 비해 부족한 부분이 생겼는데, 1화가 초전 S급 작화에 드문드문 초전 1기 작화가 보였다면, 이번 화는 초전 1기 작화를 기반으로 가끔 S급 작화가 눈에 들어왔다. 작화가 안정되었다고 하기엔 앞으로 방영분을 좀 더 지켜볼 필요가 있을 듯 싶다.
 
-# 디테일
-![](../assets/img/toaru/02/01.jpg)
-달리기를 준비하는 ***토키와다이의 풍신&뇌신(자칭) 콤비***.
-서로 맞춘 콤비명은 아니지만 그래도 잘 받아주는 착한 미코토.
-
-![](../assets/img/toaru/02/02.jpg)
-마찰계수를 조절하는 능력자에 의해 미끄러지는 모습. 나중에 2쿨 드림랭커 편에서도 세이케가 같은 능력을 들고 나올 예정.
-
-![](../assets/img/toaru/02/03.jpg)
-자력으로 원심력을 이용해 코너를 탈출
-
-![](../assets/img/toaru/02/04.jpg)
-앞서가던 콤비가 방향타 없이 로켓추진을 흉내내는 미친짓을 보는 미사카.
-당연하지만 고속으로 미끄러지는 물체는 방향제어가 어렵다.
-
-![](../assets/img/toaru/02/05.jpg)
-사전에 설치해둔 (즉석에서지만) 사철 트랩을 이용해 구해주는 모습. 쿠로코가 없었거나 플래그가 박히지 않았더라면 *풍신&뇌신* 콤비가 현실이 되었을지도
-
-![](../assets/img/toaru/02/06.jpg)
-ㅋㅋ좀 봐줘~
-
-![](../assets/img/toaru/02/07.jpg)
-온몸에 아스팔트 묻힌채로 돌아다니는건 어떤 기분일까?
-
-![](../assets/img/toaru/02/08.jpg)
-헤벌쭉
-
-![](../assets/img/toaru/02/09.jpg)
-정말 오랜만에 미사카 어머님 목소리 등장.
-
-![](../assets/img/toaru/02/10.jpg)
-저 바보털은 초전S에서 미사카도 세운 적 있었던 걸 보면 미사카 미스즈부터 라스트 오더까지 공유하는 유전자인듯. 
-
-![](../assets/img/toaru/02/11.jpg)
->**적이... 3명이라고?!**
-
-![](../assets/img/toaru/02/13.jpg)
-이 장면이랑 햄지에 보스터 들어간.SSUL 장면은 서비스신 급으로 잘 뽑혔다.
-
-![](../assets/img/toaru/02/14.jpg)
-햄스터가 전자파때문에 도망가자 실망한 미사카.
-
-![](../assets/img/toaru/02/12.jpg)
-엔딩의 미사카 시스터즈. 엔딩 작화가 개인적으로 역대급으로 뽑혔다.
+# Intro
+Episode 2 faithfully followed the original story of ***A Certain Scientific Railgun comics***. Notably, the scenes such as the scenes of the *Xochitl* and *Saten*'s meet only appear in SS novels. It is a clearly different approach compare to the first and second seasons. However, there was a shortage of drawing quality compared to the first episode. I think to say that the paintings are stable, we need to watch a bit more episodes.
 
 # 총평
 작화가 불안한 모습을 가끔 엿 볼 수 있었지만, 전반적으로 여전히 잘 나온 편임은 부정할 수 없다. 원작 전개에 충실한 점은 호평 요소이며, 약간 진도가 느린 느낌도 들지만 앞으로를 더 살펴 볼 필요가 있을 듯 싶다. 엔딩 노래는 OO력 언급하는 것을 보아 식봉이 시점인듯 한데, 개인적으로 사람 정신갖고 지랄하는 것은 별로 좋아하지 않아서 원작 소설을 읽어도 이미지 세탁 느낌이 든다. 앞으로 대패성제편에서 식봉이가 얼마나 빌런처럼 등장할지 기대가 된다.
+
+# General Review
+Although I sometimes noticed the instability of the drawing, I can't deny that it was still good overall. Faithfulness to the original story is a good point of the ***third season***. The progress may feel a bit slow to me, but I need to look more episodes to sure it. The ending theme song seems to be the point of view of *Shokuhou* as I see the mention of **OO power** in the lyrics. I'm looking forward to seeing how *Shokuhou* will be described as a Villain in the later episodes.
