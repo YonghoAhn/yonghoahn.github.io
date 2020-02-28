@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "어떤 과학의 초전자포 T 04화 리뷰"
-date: 2020-02-24 02:32:20 +0900
+date: 2020-02-28 20:32:20 +0900
 description: A Certain Scientific Railgun T(S03) 04 Review
 category: [toaru]
 img: header04.jpg # Add image post (optional)
