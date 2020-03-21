@@ -1,10 +1,9 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'jekyll-admin', group: :jekyll_plugins
-
-group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-paginate"
-  gem "jemoji"
-end
+gem "jekyll", "~> 3.4"
+gem "jekyll-paginate", "~> 1.1"
+gem "jekyll-feed", "~> 0.9"
+gem "jekyll-sitemap", "~> 1.0"
+gem "jekyll-redirect-from", "~> 0.12"
+gem "classifier-reborn"
+gem 'wdm', '>= 0.1.0'

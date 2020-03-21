@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "어떤 과학의 초전자포 T 01화 리뷰 / A Certain Scientific Railgun T 01 Review"
-date: 2020-02-21 13:32:20 +0900
-description: A Certain Scientific Railgun T(S03) 01 Review
-category: [toaru]
-img: header01.jpg # Add image post (optional)
+category: toaru
+tags: toaru
+comments: true
 ---
+![헤더1](https://misakachan.moe/assets/img/header01.jpg)
+
+
 ## Note
 >본문에 있던 스크린샷 및 디테일 감상은 저작권 문제로 삭제하였습니다.
 

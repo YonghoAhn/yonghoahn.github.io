@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "어떤 과학의 초전자포 T 03화 리뷰 / A Certain Scientific Railgun T 03 Review"
-date: 2020-02-24 02:32:20 +0900
-description: A Certain Scientific Railgun T(S03) 03 Review
-category: [toaru]
-img: header03.jpg # Add image post (optional)
+category: toaru
+tags: toaru
+comments: true
 ---
+
+![헤더1](https://misakachan.moe/assets/img/header03.jpg)
+
 # 도입
 3화는 미사카 10032호의 무쌍신이다. 그리고 *카미조* 씨의 3기 **첫등장**이기도 하다. 벌룬 헌터 경기에 언니 대신 참가하게 된 여동생과, 흑막 바바 요시오의 뒷수작이 핵심이 되는 화로, 본격적인 대패성제편 스토리 전개의 트리거가 될 것으로 보인다.
 

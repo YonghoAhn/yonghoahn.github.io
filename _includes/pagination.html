@@ -1,19 +1,19 @@
-<div class="container">
-  <nav class="pagination" role="pagination">
-    <ul>
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <p><a class="newer-posts" href="{{ site.baseurl }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
-        {% else %}
-        <p><a class="newer-posts" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
-        {% endif %}
-      {% endif %}
-
-      <p><span class="page-number">Page {{paginator.page}} of {{paginator.total_pages}}</span></p>
-
+<h2 class="sr-only">Pagination</h2>
+<nav class="pagination heading" role="navigation">
+  <ul>
+    <li class="pagination-item older" >
       {% if paginator.next_page %}
-      <p><a class="older-posts" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p>
+        <a rel="next" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+      {% else %}
+        <span>Older</span>
       {% endif %}
-    </ul>
-  </nav>
-</div>
+    </li>
+    <li class="pagination-item newer" >
+      {% if paginator.previous_page %}
+        <a rel="prev" href="{{ paginator.previous_page_path | relative_url }}">Newer</a>
+      {% else %}
+        <span>Newer</span>
+      {% endif %}
+    </li>
+  </ul>
+</nav>
