@@ -212,6 +212,7 @@ exports.trainListByLocation = functions.https.onRequest((req, res) => {
 ## Android에서 Retrofit으로 데이터 수신
 Retrofit은 Android에서 HTTP 통신을 위한 라이브러리 중 하나다. 여기서는 Retrofit2를 사용할 것인데, Retrofit에 대한 설명은 다른 포스팅에서 하도록 하고, 오늘은 데이터 수신 과정만 보도록 하겠다.
 >*TrainInfo.kt*
+
 ```Kotlin
 data class TrainInfo(
     @SerializedName("trainNo")
@@ -240,6 +241,7 @@ data class TrainInfo(
 ) : Serializable
 ```
 >*Station.kt*
+
 ```Kotlin
 data class Station (
     @SerializedName("stationName")
