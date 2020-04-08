@@ -11,7 +11,7 @@ comments: true
 ## API 키 발급
 서울시 수도권전철 실시간 위치정보 API는 일반적인 Open API와 달리 전용 API키를 발급받아야 한다.
    
-![01.png](assets/../../assets/img/dev/android/2020-04-02-seoul-subway-api/01.png)
+![01.png](https://misakachan.moe/assets/img/dev/android/2020-04-02-seoul-subway-api/01.png)
 **나의화면** -> **인증키 신청** -> **실시간 지하철 인증키 신청**에서 신청시 1~2일 내로 승인이 난다. 전용 키를 사용하지 않으면 오류가 발생한다.
 
 ## API 명세
